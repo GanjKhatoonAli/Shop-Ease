@@ -1,0 +1,13 @@
+body{
+    background-color:teal ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+   
+}
+.hello{
+    border: 2px ridge rgb(7, 122, 111);
+    padding: 40px;
+    background-color: steelblue;
+    font-size: 30px;
+    color:brown;
+}
